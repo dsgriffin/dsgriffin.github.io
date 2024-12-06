@@ -91,12 +91,32 @@
     },
     {
         "art": "<img alt='Her'foi' height='125px' src='images/her-foi.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x59984b378cc0e8453497933f63cec3d0a57f67d39e042a9fff59555b61aa4e60' target='_blank'>2021-3-1 12:01:41</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xdd655c520b492034fa82837b80944f8fef9934cbc9649c634d9bfb29cea518d3' target='_blank'>TBD</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x580b58fae86d7379bcee331121e2a0dab65c30efcde8eb7c15ea75658eeba187' target='_blank'>2021-3-30 07:13:57</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x1f9aca7976faf06b80930707754f2009254a32e8dcce8412894157d059385b8f' target='_blank'>2021-3-30 07:13:57</a>",
         "name": "Her'foi",
         "series": "1",
-        "author": "<a href='https://etherscan.io/address/0x5068aed87a97c063729329c2ebE84cfEd3177F83' target='_blank'>0x5068aed87a97c063729329c2ebE84cfEd3177F83</a>",
+        "author": "<a href='https://etherscan.io/address/0x136d06cb3f84b51c25e66f8fbb3791b50a26edf6' target='_blank'>virtualist.eth</a>",
         "epithets": "The Endless",
         "description": "An ancient, malevolent, and nameless goddess who seeks to destroy the world. She manifested at the end of the last world-ending cataclysm, and battles C'zshuai for control of the universe."
+    },
+    {
+        "art": "<img alt='Fäli' height='125px' src='images/fali.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x313265e9c666630d9096196c74d21a3211e2e3ca307727fbd3db88786eada872' target='_blank'>2021-4-2 05:31:58</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xba0651e7f18c65e0115839a869ab7e3a3d71c0c7d7230db294e2fc7a1ef98e04' target='_blank'>2021-4-2 05:37:51</a>",
+        "name": "Fäli",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0ff104944594bbd7aa2953a5bea1dac1c7f330a0' target='_blank'>0x0ff.eth</a>",
+        "epithets": "The Chilling Dread",
+        "description": "A cruel and unforgiving power who takes delight in the misery and suffering of others. Appears in the winter as a dark stain among the clouds."
+    },
+    {
+        "art": "<img alt='Ragonmaui' height='125px' src='images/ragonmaui.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x31545dc2f9d9ced9613fb8e98f44c32706eef2f71d721f4e233983b2273f3dd7' target='_blank'>2021-4-4 02:35:44</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x21338cac3e7a34fab2c8226022bab7ac2afd5a38d0972ff74ab70a753167f645' target='_blank'>2021-4-4 02:35:44</a>",
+        "name": "Ragonmaui",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xB60bFd02207823360263Ed5886c9f3c240A05045' target='_blank'>0xB60bFd02207823360263Ed5886c9f3c240A05045</a>",
+        "epithets": "Euclid's Abomination",
+        "description": "A powerful being that dwells in a strange translucent octahedron with eight faces. Its body is mostly void, but it possesses an intelligent mind, which recognizes almost all living beings, and can talk telepathically to them. It can 'align' anyone who comes near it, but it does not exert any power recognizable across most spectra."
     }
 ]
