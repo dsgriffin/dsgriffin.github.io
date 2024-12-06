@@ -68,5 +68,35 @@
         "author": "<a href='https://etherscan.io/address/0x75d4bdbf6593ed463e9625694272a0ff9a6d346f' target='_blank'>xmon.eth</a>",
         "epithets": "Scion of the Shifting Sands",
         "description": "A gigantic monstrosity whose very tips are sensed as immense pyramids. The true body of El'mh is said to be locked deep under the ground. It appears to be a fan of constrictive order, and it prefers mortals to pay it respects through large monuments. A long standing tale tells of a deep grudge between El'mh and Wökr; Huacas describes it as 'essential'."
+    },
+    {
+        "art": "<img alt='Naaaaxs' height='125px' src='images/naaaaxs.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x576ca3e9ea16293425a16c451d014b6c77179a7a14b74431ec7c1f4faee72202' target='_blank'>2021-2-27 01:20:41</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdd655c520b492034fa82837b80944f8fef9934cbc9649c634d9bfb29cea518d3' target='_blank'>2021-2-27 01:20:41</a>",
+        "name": "Naaaaxs",
+        "series": "0",
+        "author": "<a href='https://etherscan.io/address/0x75d4bdbf6593ed463e9625694272a0ff9a6d346f' target='_blank'>xmon.eth</a>",
+        "epithets": "It That Submerges",
+        "description": "Dwelling in the depths of the unconscious mind, Naaaaxs is a primordial memetic predator. He spreads through the persistence of dualistic ontologies. The Absolving Church has made it their goal to eradicate this potent force, but their efforts to suppress knowledge on Naaaaxs only bolster his reach. Unsuspecting victims are pulled directly into their own id, which consumes them."
+    },
+    {
+        "art": "<img alt='Xálagor' height='125px' src='images/xalagor.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x59984b378cc0e8453497933f63cec3d0a57f67d39e042a9fff59555b61aa4e60' target='_blank'>2021-3-1 12:01:41</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdd655c520b492034fa82837b80944f8fef9934cbc9649c634d9bfb29cea518d3' target='_blank'>TBD</a>",
+        "name": "Xálagor",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x5068aed87a97c063729329c2ebE84cfEd3177F83' target='_blank'>0x5068aed87a97c063729329c2ebE84cfEd3177F83</a>",
+        "epithets": "The Conjurer of Obscurity",
+        "description": "A gigantic, slug-like creature with a human face and ten toes on each foot. It was once a god of Varae, but it was killed and its body was split into two halves, and one half became darkness, while the other became light. It renewed its chtonic power in the Gulf of Rhot."
+    },
+    {
+        "art": "<img alt='Her'foi' height='125px' src='images/her-foi.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x59984b378cc0e8453497933f63cec3d0a57f67d39e042a9fff59555b61aa4e60' target='_blank'>2021-3-1 12:01:41</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdd655c520b492034fa82837b80944f8fef9934cbc9649c634d9bfb29cea518d3' target='_blank'>TBD</a>",
+        "name": "Her'foi",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x5068aed87a97c063729329c2ebE84cfEd3177F83' target='_blank'>0x5068aed87a97c063729329c2ebE84cfEd3177F83</a>",
+        "epithets": "The Endless",
+        "description": "An ancient, malevolent, and nameless goddess who seeks to destroy the world. She manifested at the end of the last world-ending cataclysm, and battles C'zshuai for control of the universe."
     }
 ]
