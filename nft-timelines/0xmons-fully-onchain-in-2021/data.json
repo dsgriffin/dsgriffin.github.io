@@ -25,5 +25,23 @@
         "series": "1",
         "onchain_by": "<a href='https://etherscan.io/address/0xd48d8cef2f1a7b29bafb5e17e8b88bfebaec602a' target='_blank'>dezra.eth</a>",
         "description": "A gargantuan entity of living shadows encased in a mass of dancing, gibbering bodies. She guards the Temple of Ages and the knowledge of the Everlasting Things. The God of the Moon is her master."
+    },
+    {
+        "art": "<img alt='Genesis' height='125px' src='images/genesis.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xe39a28d8e8e7e8085e24ae938b80f42b18a5be74522937636f50a17167b64146' target='_blank'>2021-2-22 08:29:51</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc08ed86d735a0c312b26441537e4b1fcac6581f8eaa5a3ee9c9ef64c52cb7e2' target='_blank'>2021-2-22 08:29:51</a>",
+        "name": "Genesis",
+        "series": "0",
+        "onchain_by": "<a href='https://etherscan.io/address/0x75d4bdbf6593ed463e9625694272a0ff9a6d346f' target='_blank'>xmon.eth</a>",
+        "description": ""
+    },
+    {
+        "art": "<img alt='Özymiann' height='125px' src='images/ozymiann.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x2d730f0db987f464aca6aac2966e91e0a2bbc04392e3d9be12311b874f46eafe' target='_blank'>2021-2-27 01:04:29</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xce3945b9448ba8911b29d466f06477b3d9d32f961feed909159d9d0037d6d5bf' target='_blank'>2021-2-27 01:04:54</a>",
+        "name": "Özymiann",
+        "series": "0",
+        "onchain_by": "<a href='https://etherscan.io/address/0x75d4bdbf6593ed463e9625694272a0ff9a6d346f' target='_blank'>xmon.eth</a>",
+        "description": "The fabled Eighth Continent rests on their back. They are said to carry the soul of a nascent world on a perilous journey. Özymiann is one of the few Old Ones that can be sensed from the Material Plane due to its immense life energy. A passing notice can cure minor ailments, but a long meditation on its existence may induce terramorphesis."
     }
 ]
