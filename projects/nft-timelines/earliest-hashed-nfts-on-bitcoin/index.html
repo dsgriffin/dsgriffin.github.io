@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP, Weex, Stephan Vogler, Rare Pepe, Spells Of Genesis"
+        name="keywords" />
+
+    <title>Earliest Hashed NFTs On Bitcoin (2014-2018)</title>
+
+    <link href="images/favicon.ico" rel="icon" type="image/jpeg" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
+        rel="stylesheet" />
+    <link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" rel="stylesheet" />
+</head>
+
+<body class="p-1 m-4">
+    <div class="pb-3">
+        <h1>Earliest Hashed NFTs On Bitcoin (2014-2018)</h1>
+        <h6>
+            99% of early Bitcoin NFTs lacked any kind of onchain link to the data/art they represented. This table is
+            about the 1%.
+        </h6>
+    </div>
+
+    <div class="pb-3">
+        <h6>
+            ✅ = pristine
+        </h6>
+        <h6>
+            ⚠️ = check notes
+        </h6>
+    </div>
+
+    <table id="data-table" class="table display" style="width:100%">
+        <thead class="text-center">
+            <tr>
+                <th>File</th>
+                <th>Datetime Hashed</th>
+                <th>Asset Name(s)</th>
+                <th>Current Supply</th>
+                <th>Hash Type</th>
+                <th>Project & Author</th>
+                <th>File Type</th>
+                <th></th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+
+        <tbody class="align-middle">
+            <!-- JSON Table Insert -->
+        </tbody>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.js"></script>
+    <script>
+        $(document).ready(() => {
+            // Handle Datatables light/dark mode
+            let prefers = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            let html = document.querySelector('html');
+
+            html.classList.add(prefers);
+            html.setAttribute('data-bs-theme', prefers);
+
+            // Set up Datatables with data
+            const jsonFilePath = 'data.json';
+
+            fetch(jsonFilePath)
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = $('#data-table tbody');
+
+                    data.forEach(row => {
+                        const tableRow = `
+                            <tr>
+                                <td>${row.file}</td>
+                                <td>${row.datetime}</td>
+                                <td>${row.names}</td>
+                                <td>${row.supply}</td>
+                                <td>${row.hash}</td>
+                                <td>${row.project_author}</td>
+                                <td>${row.file_type}</td>
+                                <td>${row.status}</td>
+                                <td>${row.notes}</td>
+                            </tr>
+                        `;
+
+                        tableBody.append(tableRow);
+                    });
+
+                    $('#data-table').DataTable({
+                        pageLength: 25,
+                        responsive: true,
+                        order: [[1, 'asc']],
+                        lengthMenu: [[10, 25, 50, -1], [10, 25, 50, 'All']]
+                    });
+                })
+                .catch(error => console.error('Error loading JSON:', error));
+        });
+    </script>
+</body>
+
+</html>
