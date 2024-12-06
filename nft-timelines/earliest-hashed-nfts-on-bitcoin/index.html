@@ -14,25 +14,6 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
         rel="stylesheet" />
     <link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" rel="stylesheet" />
-
-    <script>
-        $(document).ready(function () {
-            let prefers = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-            let html = document.querySelector('html');
-
-            html.classList.add(prefers);
-            html.setAttribute('data-bs-theme', prefers);
-
-            // $('table').DataTable({
-            //     order: [[1, 'asc']],
-            //     pageLength: 25,
-            //     lengthMenu: [
-            //         [10, 25, 50, -1],
-            //         [10, 25, 50, 'All']
-            //     ]
-            // });
-        });
-    </script>
 </head>
 
 <body style="margin: 2rem; padding: 1rem;">
@@ -50,7 +31,7 @@
         </h6>
     </div>
 
-    <table id="data-table" class="display" style="width:100%">>
+    <table id="data-table" class="display" style="width:100%">
         <thead class="text-center">
             <tr>
                 <th>File</th>
@@ -66,7 +47,7 @@
         </thead>
 
         <tbody class="align-middle">
-
+            <!-- JSON Table Insert -->
         </tbody>
     </table>
 
@@ -76,15 +57,21 @@
     <script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.js"></script>
     <script>
         $(document).ready(() => {
-            // Path to the JSON file
+            // Handle Datatables light/dark mode
+            let prefers = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            let html = document.querySelector('html');
+
+            html.classList.add(prefers);
+            html.setAttribute('data-bs-theme', prefers);
+
+            // Set up Datatables with data
             const jsonFilePath = 'data.json';
 
-            // Fetch the JSON file
             fetch(jsonFilePath)
                 .then(response => response.json())
                 .then(data => {
-                    // Populate the table
                     const tableBody = $('#data-table tbody');
+
                     data.forEach(row => {
                         const tableRow = `
                             <tr>
@@ -99,10 +86,10 @@
                                 <td>${row.notes}</td>
                             </tr>
                         `;
+
                         tableBody.append(tableRow);
                     });
 
-                    // Initialize DataTables
                     $('#data-table').DataTable({
                         pageLength: 25,
                         responsive: true,
