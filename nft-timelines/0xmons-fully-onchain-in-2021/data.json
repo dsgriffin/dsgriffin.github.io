@@ -168,5 +168,75 @@
         "author": "<a href='https://etherscan.io/address/0x05Eb7F0ebCFC8beE7D5283521A08EBef149569ed' target='_blank'>0x05Eb7F0ebCFC8beE7D5283521A08EBef149569ed</a>",
         "epithets": "She Who Wins the Struggle, The Mother of Conquerors",
         "description": "A 'mother' of conquest, spoken of in the deep corridors of antiquity. She has conquered innumerable kingdoms, and is said to have either fathered or given birth to a new race of conquerors every few centuries. It is not known where she currently resides, but it is always said that there is no one greater than her in all the world."
+    },
+    {
+        "art": "<img alt='Isistl' height='125px' src='images/isistl.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x82d41b2301763cf61f843b5ac1148b588b4d46cd9fb3051a08951cbf17e652ec' target='_blank'>2021-04-16 04:53:46</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xac629b66cf59fea8b453952ba12c2bafb899edd2915e485ed5d2b94af4a55dd4' target='_blank'>2021-04-16 10:16:00</a>",
+        "name": "Isistl",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA61aa80AeEFDF398906012585839cDE459677b09' target='_blank'>0xA61aa80AeEFDF398906012585839cDE459677b09</a>",
+        "epithets": "Heaven's Roar",
+        "description": "A creature of the Inner Planes, ruled by the cold element of electricity. It has the body of a colossal tiger and the wings of an eagle. The power it exudes is terrifying, and it can create thunder and lightning. It appears in the shape of an enormous tiger with a lightning bolt crashing from its forehead. It interacts with other deities in the Volta Pantheon."
+    },
+    {
+        "art": "<img alt='Horset' height='125px' src='images/horset.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x1b4c2e867b38d42943212129f2705117e181ef4dbd459646dd5a3e0965545457' target='_blank'>2021-04-17 07:04:01</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x62db24583ec9691ab94b6b0a87803d6528e3b3448876661a8f06947dad8adfd9' target='_blank'>2021-04-16 07:07:25</a>",
+        "name": "Horset",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x26c6f93451BCf317a1FC24393fE760cF695525b3' target='_blank'>0x26c6f93451BCf317a1FC24393fE760cF695525b3</a>",
+        "epithets": "The Wildest Rat",
+        "description": "A gigantic, black, furred figure, often described as having a rodent's head. He is said to be a servant of the Leviathan, and specializes in luring men astray by changing his form into that of a beautiful woman, or a great bird, or some other enticing creature."
+    },
+    {
+        "art": "<img alt='Nadiss' height='125px' src='images/nadiss.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5fa840f6b11a08c02024ada957f208168bd6a1614634168d82e4982ff3fd6829' target='_blank'>2021-04-23 10:19:04</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc46ad2ab0beb224681443f5fb6335d84ae0882f2db7667e47b77538f520a8c1' target='_blank'>2021-04-23 10:23:36</a>",
+        "name": "Nadiss",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
+        "epithets": "Withering Spring",
+        "description": "A freezing heart-shaped spirit. At first, it was a god who served the Gods of the Aether, but after the death of the Gods' patron deity, it entered the realm of the Abyss of Woe, where it was cursed by Chax-Hlae. Its ultimate goal is to reunite with the Gods of the Aether, but it is unable to reach them for now."
+    },
+    {
+        "art": "<img alt='K'rmigu' height='125px' src='images/k-rmigu.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x833ad10dcabf68b174a92d484d1c57e969bfe080cf67e5a7e2f0d2f53328f113' target='_blank'>2021-04-23 11:38:55</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xb86549f0db250b040e4079ef81869bb9e0c4fbb3f0ee0446f2caf583e2889184' target='_blank'>2021-04-23 11:40:08</a>",
+        "name": "K'rmigu",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth<</a>",
+        "epithets": "The Insatiable One",
+        "description": "A creature made of oily black spheres which writhe together to create a shapeless mass, which constantly emits a foul odor and exudes an eerie, luminescent light. It is said to be an entity of pure chaos and death, which exists simply to consume."
+    },
+    {
+        "art": "<img alt='Dvir' height='125px' src='images/dvir.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3e29f54b1e14d5775b4f9dc6f9c3ef0ea35faf5f331a9ae9e7e7036868001a04' target='_blank'>2021-04-24 03:27:43</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xb764bb718bcef6e64a18858a318593947144019b24932eaae8e1e4ecf409caa0' target='_blank'>2021-04-24 03:27:43</a>",
+        "name": "Dvir",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8<</a>",
+        "epithets": "Child of the Wild",
+        "description": "A small, smooth, and yet very powerful entity who watches over the walls of Alchemena and the City of Stars. Originally a child of the Void, Dvir fell into a deep despair after the First Cataclysm, and so dedicated himself to safeguarding the Night Gods. The barrier between his and the Pitch Gods' realms is almost non-existent, but he takes great pains to keep it that way."
+    },
+    {
+        "art": "<img alt='El Diab' height='125px' src='images/el-diab.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x62e6c342f9fc20d8b1d6fc30c4ee6516b603421876366ac6a399ab208d97fce9' target='_blank'>2021-04-24 03:44:46/a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x2a2f58783dd3ba17b62a752888e084420a2a5bc8d0f5b671a6cc7152952247c7' target='_blank'>2021-04-24 03:47:49</a>",
+        "name": "El Diab",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8<</a>",
+        "epithets": "The Patron of Resilience",
+        "description": "A demonic, faceless figure clad in dark robes. Said to be the patron of a tribe of nine hundred elves with bluish skin, which live in the distant western mountains."
+    },
+    {
+        "art": "<img alt='Mla'grgh' height='125px' src='images/mla-grgh.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x210b7ac275c69983da2d4c4c06c2c5d6ee0bb70c0eac5da1f1cd102adfcbc455' target='_blank'>2021-04-24 04:25:46/a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xed76bf32588c089bca9b065921c93bc5cfe9236a8faec98035b049b59df4052b' target='_blank'>2021-04-24 04:26:14</a>",
+        "name": "Mla'grgh",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
+        "epithets": "The Gaunt One",
+        "description": "A shadowy figure, said to be a malevolent entity which dwells in the caverns of Yankuk, and which was once worshiped by the ancient Q ero. It is said that his calling card is immense, black hoof-like fingerprints which appear after the rain in Yankuk."
     }
 ]
