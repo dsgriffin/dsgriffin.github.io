@@ -205,7 +205,7 @@
         "linked_datetime": "<a href='https://etherscan.io/tx/0xb86549f0db250b040e4079ef81869bb9e0c4fbb3f0ee0446f2caf583e2889184' target='_blank'>2021-04-23 11:40:08</a>",
         "name": "K'rmigu",
         "series": "2",
-        "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth<</a>",
+        "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
         "epithets": "The Insatiable One",
         "description": "A creature made of oily black spheres which writhe together to create a shapeless mass, which constantly emits a foul odor and exudes an eerie, luminescent light. It is said to be an entity of pure chaos and death, which exists simply to consume."
     },
@@ -215,7 +215,7 @@
         "linked_datetime": "<a href='https://etherscan.io/tx/0xb764bb718bcef6e64a18858a318593947144019b24932eaae8e1e4ecf409caa0' target='_blank'>2021-04-24 03:27:43</a>",
         "name": "Dvir",
         "series": "2",
-        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8<</a>",
+        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8</a>",
         "epithets": "Child of the Wild",
         "description": "A small, smooth, and yet very powerful entity who watches over the walls of Alchemena and the City of Stars. Originally a child of the Void, Dvir fell into a deep despair after the First Cataclysm, and so dedicated himself to safeguarding the Night Gods. The barrier between his and the Pitch Gods' realms is almost non-existent, but he takes great pains to keep it that way."
     },
@@ -225,7 +225,7 @@
         "linked_datetime": "<a href='https://etherscan.io/tx/0x2a2f58783dd3ba17b62a752888e084420a2a5bc8d0f5b671a6cc7152952247c7' target='_blank'>2021-04-24 03:47:49</a>",
         "name": "El Diab",
         "series": "2",
-        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8<</a>",
+        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8</a>",
         "epithets": "The Patron of Resilience",
         "description": "A demonic, faceless figure clad in dark robes. Said to be the patron of a tribe of nine hundred elves with bluish skin, which live in the distant western mountains."
     },
@@ -238,5 +238,45 @@
         "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
         "epithets": "The Gaunt One",
         "description": "A shadowy figure, said to be a malevolent entity which dwells in the caverns of Yankuk, and which was once worshiped by the ancient Q ero. It is said that his calling card is immense, black hoof-like fingerprints which appear after the rain in Yankuk."
+    },
+    {
+        "art": "<img alt='Ngaro' height='125px' src='images/ngaro.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x7913e3b25b005f719c50185b5895ff8b9f60c1f4c4da76cf604361973a3b910c' target='_blank'>2021-05-07 12:53:15</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x98565f67875e5fb908bcdf0ea2694c38a4611148c2194578fcfb4153887e6ef0' target='_blank'>2021-04-24 12:53:15</a>",
+        "name": "Ngaro",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x630c1030138784C65daA74Bb66dd0D00B0bDc522' target='_blank'>0x630c1030138784C65daA74Bb66dd0D00B0bDc522</a>",
+        "epithets": "The Undying",
+        "description": "One of the most elusive of the beings of the Vast, Ngaro's existence is extremely difficult to locate and even more difficult to destroy. Ngaro feeds on the soul of those who die, and any that are close enough to him are not safe from his powerful energies. He is a towering creature, with more or less the body of a wolf, but possessing the face of a lion."
+    },
+    {
+        "art": "<img alt='Ub-Zeeg' height='125px' src='images/ub-zeeg.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3cf4a768c783143eba45d1e43ca2b8f3726621dd02d9bab044c08e43c04f5643' target='_blank'>2021-05-19 11:34:40</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xfb679cefc515b9e5acbd6525691235c80897a973c845f3d4b1f775888901dc7a' target='_blank'>2021-06-20 04:42:51</a>",
+        "name": "Ub-Zeeg",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x4129b4337d5A2F7278A02Ff15Bb1e4E548D8eE60' target='_blank'>playpausestop.eth</a>",
+        "epithets": "Goddess of the Earth's Pain",
+        "description": "A colossal, four-legged entity covered in fissures and cracks like an old statue from which age has leached all wisdom. She does not speak and expresses herself only through her actions. She appeared after the shattering of the Etherial Barrier."
+    },
+    {
+        "art": "<img alt='Dluthos' height='125px' src='images/dluthos.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x0ee9cca349b1e116b152124353901373f379a2c1a92bd5652cbddf96a401fcd4' target='_blank'>2021-05-30 12:52:29</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x023e2eab367db113f8a9040e587fbfa5629b2452d3d874614046877e25f804c8' target='_blank'>2021-05-20 12:58:20</a>",
+        "name": "Dluthos",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xb39ff833f6b42d474bc649e3f435856c8f0cb426' target='_blank'>weston.eth</a>",
+        "epithets": "Magic's First Master",
+        "description": "A powerful wizard who is said to have been born from the corpse of another wizard, and to have killed the World Dragon in a previous world-ending cataclysm. He was then killed by Ornan Unsca, who mutilated his corpse and attached it to a brooding cairn."
+    },
+    {
+        "art": "<img alt='Kchhk-tïr' height='125px' src='images/kchhk-tir.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xafd4c852969d1a9b2e6af2143886744115ee1330154609ad7cc5252fcc16ba98' target='_blank'>2021-06-06 11:35:32</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x9c48759e73a673c80ba8bd3213b83bc91215de7cab08925c90cf830da70edfee' target='_blank'>2021-06-06 11:35:54</a>",
+        "name": "Kchhk-tïr",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
+        "epithets": "What Lurks Among the Trees",
+        "description": "A long, thin creature said to have a humanoid body with a mass of antlers at the top, and a serpentine head. It possesses many tendrils which it uses to ensnare and kill the unwary. If one is to cut them off, the tendrils will grow back stronger and angrier."
     }
 ]
