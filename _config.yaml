@@ -1,9 +1,14 @@
-remote_theme: jekyll/minima@latest
+remote_theme: dracula/gh-pages
 plugins:
   - jekyll-remote-theme
 
-minima:
-  skin: auto
+show_downloads: false
+show_header: false
+
+github:
+  owner_name: Griffin
+  owner_url: https://github.com/dsgriffin
+  repository_url: https://github.com/dsgriffin/dsgriffin.github.io
 
 title: dsgfn
-description: A site to host 
+description: A site to host stuff
