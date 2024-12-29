@@ -1,7 +1,9 @@
-title: dsgfn
-description: A place to host things
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@latest
 plugins:
   - jekyll-remote-theme
+
 minima:
   skin: auto
+
+title: dsgfn
+description: A site to host 
