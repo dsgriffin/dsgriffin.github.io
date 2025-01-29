@@ -1,10 +1,10 @@
-# dsgfn.com 💻
+# cybe.com 💻
 
 A place for hosting my Github-related assets & data.
 
 ## Website
 
-[Check it out](https://dsgfn.com/)
+[Check it out](https://cybe.com/)
 
 ## Contributing
 

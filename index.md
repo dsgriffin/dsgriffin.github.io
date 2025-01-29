@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dsgfn.com
+title: cybe.com
 ---
 
 Site under development.
