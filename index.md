@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cybe.com
+title: dsgriffin.com
 ---
 
 Site under development.
