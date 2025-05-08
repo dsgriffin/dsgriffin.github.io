@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dsgriffin.com
+title: About
 ---
 
-Site under development.
+Contact: mail@dsgriffin.com
